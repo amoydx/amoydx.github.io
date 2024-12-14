@@ -3,7 +3,7 @@
 # title = 'My New Hugo Site'
 
 # 使用的主題
-theme = "ananke"
+theme = "papermod"
 
 # 網站網址，先維持預設
 baseURL = "https://example.org/"

@@ -11,3 +11,10 @@ Hello World
 ## 成功部署github网站托管的hugo
   ————这是markdown
   
+  ---
+title: "我的第二篇文章"
+date: 2023-03-25T17:00:00+08:00
+draft: false
+---
+
+### 你好！世界

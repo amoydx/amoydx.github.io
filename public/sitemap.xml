@@ -11,6 +11,9 @@
     <loc>http://localhost:1313/posts/helloword/</loc>
     <lastmod>2023-03-25T17:00:00+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C/</loc>
+    <lastmod>2023-03-25T17:00:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
